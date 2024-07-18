@@ -1,8 +1,8 @@
-# taller14
+  # taller14
 
 ## Problema 01
 * Generar un programa que permita ingresar por teclado información que corresponde a
-sueldos de trabajadores. Por cada trabajador ingresar: cédula, nombres, correo, sueldo, mes del sueldo.
+sueldos de trabajadores. Por cada trabajador ingresar: cédula, nombres, correo, sueldo, mes del sueldo, descuento de seguro, porcentaje de descuento del seguro, sueldo final a pagar
 
 La información debe quedar registrada en un base de datos.
 
@@ -10,7 +10,8 @@ El proceso de ingreso es iterativo hasta que el usuario decida lo contrario.
 
 ## Problema 02
 
-* En función de la base de datos llamada **base001.base** generar un reporte que presente lo siguiente
+* Analice la **base001.base** y analice el siguiente reporte:
+
 
 ```
 René Elizalde
@@ -61,3 +62,4 @@ Rosa Jara
   5.9
   Promedio ?
 ```
+Es posible que deba crear nuevamente la tabla en la base de datos, para poder guardar todos los atributos necesarios. Finalmente, luego de ingresar la información en la tabla, genere el reporte
