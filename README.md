@@ -8,6 +8,8 @@ La información debe quedar registrada en un base de datos.
 
 El proceso de ingreso es iterativo hasta que el usuario decida lo contrario.
 
+Al final se presentar los registros ingresados en la base de datos
+
 ## Problema 02
 
 * Analice la **base001.base** y analice el siguiente reporte:
